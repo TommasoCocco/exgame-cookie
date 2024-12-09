@@ -100,3 +100,20 @@
 .modify_btn_question{
     border: 1px solid;
 }
+
+.headerLayout {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 3rem;
+  }
+  
+  .buttonsLayout {
+    gap: 1rem;
+    display: flex;
+  }
+  
+  .buttonsGap{
+    gap:1rem;
+    display: flex;
+  }
